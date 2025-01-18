@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Ian (he/they), a MS Biology student at James Madison University.
+I'm Ian (he/him), a MS Biology student at James Madison University.
 
 📫 Contact: barry2em@dukes.jmu.edu
 
